@@ -1,0 +1,37 @@
+body{
+    font-family: 'Playpen Sans', cursive;
+}
+.header{
+    height: 90vh;
+    width: 100%;
+    background-color: black;
+    color: white;
+   background: linear-gradient(to right,rgba(40, 19, 159,1),rgba(222, 35, 35, 0.3)),url(https://watermark.lovepik.com/photo/20211207/large/lovepik-young-schoolgirl-using-laptop-in-study-room-picture_501564048.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+#word{
+    top: 35%;
+}
+.btn{
+    border-radius: 10rem !important;
+    padding: 1.25 2.25 !important;
+}
+.message{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+color: palegoldenrod;
+}
+.download{
+    background: rgb(2,0,36);
+background: linear-gradient(79deg, rgba(2,0,36,1) 0%, rgba(12,206,129,1) 35%, rgba(2,211,234,1) 68%, rgba(0,212,255,1) 100%);
+}
+
+.link{
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+.ul{
+    list-style-type: none;
+}
